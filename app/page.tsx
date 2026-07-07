@@ -22,7 +22,7 @@ export default function Home() {
           </Link>
         </div>
       </header>
-      
+    
 
       <section id="home" className="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden">
         <div className="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] rounded-full bg-blue-400/20 blur-[120px]"></div>
